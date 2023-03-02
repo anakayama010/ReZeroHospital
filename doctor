@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T00:19:51.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vA99gK95XdBcX8Z5l5Fl" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T01:20:15.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8IGblSQ3SllJ4OXvYuS6" version="20.8.23" type="github">
   <diagram name="ページ1" id="K10tceARDCfc7iJsquXO">
-    <mxGraphModel dx="891" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,81 @@
         </mxCell>
         <mxCell id="GzHG4ANeXrfZNOsvbfMg-28" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientDirection=north;opacity=25;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="880" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-31" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#666666;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="880" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-32" value="薬剤を追加してください" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-33" value="薬剤入力画面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="45" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-34" value="薬剤名" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-36" value="用量" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-37" value="用法コード" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="230" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-38" value="朝" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-44">
+          <mxGeometry width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-39" value="昼" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-44">
+          <mxGeometry x="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-40" value="夕" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-44">
+          <mxGeometry x="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-41" value="寝前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-44">
+          <mxGeometry x="90" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-42" value="剤形" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-44">
+          <mxGeometry x="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-45" value="用法テキスト" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="720" y="230" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-46" value="No." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-58" value="フロモックス錠75mg" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-59" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-60" value="331" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="250" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-62" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-61">
+          <mxGeometry width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-63" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-61">
+          <mxGeometry x="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-64" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-61">
+          <mxGeometry x="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-65" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-61">
+          <mxGeometry x="90" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-66" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="GzHG4ANeXrfZNOsvbfMg-61">
+          <mxGeometry x="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-67" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHG4ANeXrfZNOsvbfMg-68" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;fontColor=#000000;fillColor=#E6E6E6;gradientColor=none;gradientDirection=north;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
