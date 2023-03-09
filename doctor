@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T01:12:38.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gsaaFu3MAq8sU9KkcnKU" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T01:12:53.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SAmxGJMKmgidzulN1nP9" version="20.8.23" type="github">
   <diagram name="ページ1" id="K10tceARDCfc7iJsquXO">
-    <mxGraphModel dx="932" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,9 +210,6 @@
         </mxCell>
         <mxCell id="GzHG4ANeXrfZNOsvbfMg-246" value="登録" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;gradientDirection=south;gradientColor=#EDEDED;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="380" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GzHG4ANeXrfZNOsvbfMg-251" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=#FC0000;fillColor=none;gradientDirection=south;strokeWidth=10;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GzHG4ANeXrfZNOsvbfMg-249" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontSize=16;rotation=-120;" parent="1" vertex="1">
           <mxGeometry x="250.93000000000018" y="251.25" width="29.07" height="17.5" as="geometry" />
